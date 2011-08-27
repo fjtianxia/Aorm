@@ -1,7 +1,7 @@
-Welcome to join us!
+ï»¿Welcome to join us!
 Email:673592063@qq.com
 ========================
-ÎÒÃÇµÄÄ¿±êÊÇ£º
+æˆ‘ä»¬çš„ç›®æ ‡æ˜¯ï¼š
 Person person = new Person();
 person.id = 5;
 person.list();
