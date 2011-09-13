@@ -2,25 +2,25 @@ package com.aorm.core;
 
 import java.util.List;
 
-public class ModelCreator<T> {
+public class DataFactory {
     
-    public T get(){
+    public <T> T get(){
         return null;
     }
     
-    public List<T> list(){
+    public <T> List<T> list(){
         return null;
     }
     
-    public boolean insert(){
+    public <T> boolean insert(){
         return false;
     }
     
-    public boolean delete(){
+    public <T> boolean delete(){
         return false;
     }
     
-    public int size(){
+    public <T> int size(){
         return 0;
     }
 }
